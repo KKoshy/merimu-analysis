@@ -1,3 +1,18 @@
+<div align="center">
+
+# 🛰️ merimu-analysis
+
+**Analysis of MER Inertial Measurement Unit Highrate and Transformed data.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Mission](https://img.shields.io/badge/NASA-MER%20Spirit%20%26%20Opportunity-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+![Data](https://img.shields.io/badge/data-NASA%20PDS3%20archive-1F6FB2?style=flat-square)
+
+</div>
+
 ## Overview
 
 Mars Exploration Rover(MER) is NASA's robotic space mission involving two rovers, Spirit and Opportunity.<br>
